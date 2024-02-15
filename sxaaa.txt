@@ -1,4 +1,4 @@
-秋名山,#genre#
+秋名山车道1,#genre#
 欧美版粉红,https://epg.pw/stream/fb5cce21916575588fb4b8eb6f4a0cdc613e997d253cb4c73a5ebaa574132722.m3u8
 欧美版二本道,https://epg.pw/stream/7cfd3e9a720e7d3e541761c6a14ebe14cf97aeef86c6b510d0f43325b4f33a5c.m3u8
 欧美版香蕉,https://epg.pw/stream/81680c1022b7ec01b57a0707df4dafb2f0f1bc38030491fccd479cc7c5cf986b.m3u8
